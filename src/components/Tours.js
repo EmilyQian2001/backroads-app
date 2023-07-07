@@ -7,7 +7,6 @@ const Tours = () => {
       <Title title="featured" subTitle="tours" />
 
       <div className="section-center featured-center">
-        {/* omit refractoring */}
         {tours.map((tour) => {
           const { id, image, date, title, info, location, duration, cost } =
             tour;
