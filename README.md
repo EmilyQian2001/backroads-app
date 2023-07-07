@@ -1,6 +1,6 @@
 demo for converting original html,... to React \
 use Netlify to host [https://backroads-demo-by-emily.netlify.app/](https://backroads-demo-by-emily.netlify.app/) \
-'continuous deployment' is achieved \
+'continuous deployment' is achieved 
 
 run ssh option in local terminal to download the project \
 npm install & npm start \
@@ -8,7 +8,7 @@ if making changes - git add . \
                     git commit -m "message" \
                     git push -u origin main \
 or go to source control in vscode \
-commit & push \
+commit & push 
 
 
 # Getting Started with Create React App
